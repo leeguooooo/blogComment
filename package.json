@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "umi dev",
+    "setup": "umi setup",
+    "build": "umi build"
+  },
+  "devDependencies": {
+    "@umijs/plugins": "^4.0.47",
+    "leeguoo-docaid": "^0.0.11",
+    "umi": "^4.0.47",
+    "umi-plugin-leeguoo-docaid": "^0.0.9"
+  }
+}
